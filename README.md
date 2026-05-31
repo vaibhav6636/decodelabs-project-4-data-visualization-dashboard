@@ -51,7 +51,6 @@ The objective of this project is to create visual representations of data that h
 
 ### Interactive Filters
 - Product
-- Payment Method
 - Order Status
 - Referral Source
 
